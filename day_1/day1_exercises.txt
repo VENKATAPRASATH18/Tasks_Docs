@@ -1,0 +1,63 @@
+Day 1
+
+
+1. Understand the need for PATH, CLASSPATH. Try setting it and viewing it.
+
+
+export PATH=
+export CLASSPATH=
+
+Create a simple shell script with echo "Hello" and execute it from the same directory. Now move to some other directory and try executing it using PATH.
+
+Write a small java program (say a "Hello World" program) and put it in a directory . Compile the program and change directory to some other directory
+and try to execute the class file .
+
+2.  Write a program to print the size of different data types in Java (list all the data types!).
+
+3.  Write a program to reverse a string using StringBuffer class (do not use String class for data manipulation!)
+               a. Input from command line.
+               b. Read the input from program.
+
+4.  Understand the difference between String and StringBuffer classes by writing small programs.
+
+5.  Understand the need for packages. Write a class with a package statement in it and try to run it.
+
+
+----
+
+1. List down the differences between String and StringBuffer class.
+
+2. Learning about access specifiers (Write java programs to understand the difference between , public ,private,package and protected specifiers!)
+ 
+ What is the meaning of declaring a class public? (try this by putting the class in a package and try to access the class from a different package!).
+
+3. Learning about scope specifiers also what is the difference between instance variable and class variable?
+ 
+ Write programs and try using local scope/method scope/member scope variables and how to access them.
+
+4. Write a java program to print the system properties (Hint : Refer to System class)
+ 
+ Try to print the current working directory from you java program.
+
+5. Write two classes (say "A" and "B") , in class "A" create an instance of class "B" .
+ 
+ Compile class "A" in some directory "D1" and class "B" in "D2" ,now A.class and B.class are in two separate directories.
+ 
+ Try to run class "A" from directory "D1" (it will say class "B" not found). If you set classpath to both directories then it will work (try it
+out!)
+
+ Try to set the class path from the class "A" itself (instead of specifying the classpath in the shell, try to set in your java prog! )
+
+----
+
+1. Is the method main belong to any class? , if not why? , if so what  are the access privileges to that method?//
+
+2. Is it possible to have a private class? (write a class and try it out! , try protected also!)
+
+3. Is it possible to have a private constructor? (write a class and try it out! ) , if possible how do you create an instance of it from another class?
+
+4. What is the meaning of declaring a variable "static" ? (write a program to bring out the difference between instance and class variables).
+
+5. What is the meaning of declaring a method "static" ? how do you invoke such a method ?//
+
+6. In java, are the parameters passed by reference or by value (Write a  program to test for basic data types , arrays ,strings ,string arrays and custom objects !)

@@ -1,0 +1,18 @@
+Access Modifiers ( for class,members,methods )
+
+Private - only within the class, (scope is restricted irrespective of same package/ classes of same packages)
+
+public - No restriction on scope
+
+default - chosed by default , if no access modifiers is present in the prefix. scope is restricted for outside package members/classes.(only within the packages)
+
+protected - same as like default access modifier. but can by accessed by outside package members by inherit/extend (child class)
+
+ 
+
+
+
+
+ 
+
+

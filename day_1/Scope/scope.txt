@@ -1,0 +1,10 @@
+Scope of variable:
+
+local  scope variable
+	- declared inside the method block
+	
+method  scope variable
+	- supplied with the method parameter
+	
+member/class scope variable
+	- inside the class but not inside the methods/functions

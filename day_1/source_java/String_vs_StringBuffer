@@ -1,0 +1,16 @@
+String:
+Immutable - cannot able to manipulate(in-string). will create another copy(manipulated) in new address, if we try to re-assign.
+
+Takes more memory
+
+less efficient for string manipulation 
+
+
+String-Buffer:
+Mutable 
+
+It does not  create another copy(manipulated) in new address. instead all the opeartions takes place in the same string.
+
+Takes less memory
+
+More efficient than string class for  manipulation 
