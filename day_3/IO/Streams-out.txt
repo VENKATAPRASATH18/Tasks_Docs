@@ -1,0 +1,9 @@
+-byte stream (other that character like audio,video etc..)
+- all classes are in InputStream/OutputStream -- super class
+
+
+
+- character stream
+- all classes are in Reader/Writer -- super class
+reader - bridge for bytestream to charstream
+writer - bridge for charstream to bytestream

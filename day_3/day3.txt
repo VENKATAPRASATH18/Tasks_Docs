@@ -1,0 +1,33 @@
+Day 3
+
+
+1. List various classes available for reading / writing
+ 
+ a) byte data
+ 
+ b) character data (Strings)
+ 
+ c) files
+ 
+ d) objects
+
+Understand which i/o streams to use in which scenario.
+
+2. Whats happening when you use System.out and System.err ?
+
+3. Write a program to read contents of a file and write to another file?
+
+4. How do randomly access a file ? Hint : One should be able to position the read index anywhere one chooses.
+
+5. Understand IOException and its sub categories?
+
+
+
+----
+
+
+1. How do you create a Thread from java (Write a program!).
+
+2. How do you name a thread? and why it is useful?
+
+3. Synchronization need , type, usage.

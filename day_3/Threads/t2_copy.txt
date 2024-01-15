@@ -1,0 +1,20 @@
+Thread &  Process, for multitasking.
+
+Synchronization(for both process and thread)
+
+Synchronization in MultiThreading: to prevent thread interference
+
+	-Synchronized method (different instance for different object)
+	-Synchronized block
+	-static Synchronized (one instance for entire program)
+    -- Synchronization access flow of thread in java(not for static):
+    acquire object's lock -> continuously accessing object's fields -> lock release
+      
+
+
+
+
+
+
+
+
