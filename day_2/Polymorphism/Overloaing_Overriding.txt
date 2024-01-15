@@ -1,0 +1,13 @@
+OverLoading:
+- Compile time polymorphism
+- Declaring methods with same name but different signatures(method signatures=method name and parameter list)
+- A class doent not have 2 methods with same signatures
+- static as well as non-static methods
+
+
+Overriding:
+- Run time polymorphism
+- Same name and signatures,same or different return type
+- achieved through inheritence
+- Dynamic method dispatch mechanism ->the correct version of an overridden method is called at runtime.
+ 

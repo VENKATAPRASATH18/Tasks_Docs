@@ -1,0 +1,5 @@
+- can not able to create objects for this class
+- every subclass should overrides the abstracted method of its superclass
+- non abstract methods inside the abstract class behaves as same the super class method behaviours
+- can able to extend only one abstract class
+- after java 8 updates 

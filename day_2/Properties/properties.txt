@@ -1,0 +1,6 @@
+Properties vs Hastable
+
+- Having advantage advantage of reading and writing content using files/iostreams
+- store string keys and value pair
+- can load and save the key value pairs. changes will reflect in class file , but hashtable can't
+-   

@@ -1,0 +1,7 @@
+Primitive dt - fast than wrapper class
+but wrapper class helps to attains oop , whereas Primitive dt is just delcaration of values using variables.
+
+wrapper class main usage - convert primitive dt to wrapper objects , working with collections
+
+-Autoboxing , primitive to wrapper obj
+-unboxing , wrapper type to corrosponding primitive type

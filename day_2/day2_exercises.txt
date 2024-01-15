@@ -1,0 +1,32 @@
+Day 2
+
+
+1. Convert a float value to an integer (float to double etc.) (Hint use  wrapper classes ,do not typecast them!).
+
+2. Function overriding & overloading ( Write a set of classes to bring out the difference!)
+
+3. Write a class and override "toString" method in the class object.(When you write a class "A" does it have any parent? , investigate!)
+
+4. What is an abstract class , why it is used ? (Write an abstract and<> try to use it!).
+
+5. Write an interface and try to bring out diff. between abstract class and an interface! (can i define variables in interfaces?)
+
+6. What is the difference between a Hashtable and Properties? (Write a program as an example!)//
+
+7. Write a program to print all elements in a Properties object (Using Enumeration! )
+
+8. Can i remove an element while enumerating through a Properties object? (If so how? , if not how will i remove a element while enumerating!). What happens when i remove an element while enumerating!
+
+
+----
+
+
+1.  Write a program which will run another java program (you will have to invoke the "java xyz" from this program!) get the output of the
+
+program and print it to a file.
+
+2.  Write a program which will run your string reverse java program (you will have to invoke the "java Reverse" from this program!)  give the
+
+input to the Reverse program from this program and get the output and print the output to a file.
+
+Hint: Refer Runtime class

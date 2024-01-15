@@ -1,0 +1,7 @@
+Process:
+
+-  InputStream getInputStream
+-  OutputStream getOutputStream
+-  destroy
+-  isAlive
+-  waitFor
